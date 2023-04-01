@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    margin-top: 40px;
+    font-family: 'TT Hoves';
+    color: #FFFF;
+    background-image: url('../img/timer.png');
+    background-size: cover;
+    background-repeat: cover;
+}
+
+.container {
+
+}
+
+.head {
+
+}
+
+.timer {
+
+}
+
+.end {
+
+}
